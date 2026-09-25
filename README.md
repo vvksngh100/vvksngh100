@@ -107,22 +107,21 @@ With **3+ years of experience**, I build responsive web applications using React
 <br/>
 
 <details>
-<summary><b>🔗 Enterprise Field Service Management Platform</b></summary>
+<summary><b>🤖 Personal AI Research Assistant (Production-Grade RAG System)</b></summary>
 
 <br/>
 
-> Enterprise platform utilized by up to 200 concurrent users for streamlining dispatching of field work orders.
+> A local RAG platform processing up to 10MB PDFs to extract semantic data and generate citation-backed answers[cite: 1].
 
 **Engineering Breakdown:**
 
 | Component | Detail |
 |:---|:---|
-| 🧮 Validation Algorithm | Required photographic proof for task completion for 500+ daily orders, reducing audit time by 30% |
-| 🚀 SQL Optimization | Refined joins and eliminated redundant indexing, reducing query time by 45% |
-| ⚡ Dynamic Data UI | Coded permission-driven tables rendering 1000+ data rows without lag |
-| 🏆 Recognition | Earned the Zinspire Award (Jul 2024) for delivering critical change requests |
+| ⚙️ Node.js Worker Threads | Isolated heavy processing tasks, achieving 0ms event loop blockage and 100% availability during large PDF uploads[cite: 1] |
+| 🧠 Quantized Embedding | Integrated an 8-bit quantized embedding model to decrease server memory usage by 70%, maintaining stability on a 512MB RAM cloud tier[cite: 1] |
+| ⚖️ Dual-Lane Queue Scheduler | Processes 50KB documents in under 2 seconds, even while 10MB files run in the background[cite: 1] |
 
-**Stack:** `JavaScript` · `SQL`
+**Stack:** `Node.js` · `Pinecone Vector DB` · `Hugging Face Transformers` · `Groq`[cite: 1]
 
 </details>
 
