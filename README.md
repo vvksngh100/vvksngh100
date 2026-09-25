@@ -111,17 +111,17 @@ With **3+ years of experience**, I build responsive web applications using React
 
 <br/>
 
-> A local RAG platform processing up to 10MB PDFs to extract semantic data and generate citation-backed answers[cite: 1].
+> A local RAG platform processing up to 10MB PDFs to extract semantic data and generate citation-backed answers.
 
 **Engineering Breakdown:**
 
 | Component | Detail |
 |:---|:---|
-| ⚙️ Node.js Worker Threads | Isolated heavy processing tasks, achieving 0ms event loop blockage and 100% availability during large PDF uploads[cite: 1] |
-| 🧠 Quantized Embedding | Integrated an 8-bit quantized embedding model to decrease server memory usage by 70%, maintaining stability on a 512MB RAM cloud tier[cite: 1] |
-| ⚖️ Dual-Lane Queue Scheduler | Processes 50KB documents in under 2 seconds, even while 10MB files run in the background[cite: 1] |
+| ⚙️ Node.js Worker Threads | Isolated heavy processing tasks, achieving 0ms event loop blockage and 100% availability during large PDF uploads |
+| 🧠 Quantized Embedding | Integrated an 8-bit quantized embedding model to decrease server memory usage by 70%, maintaining stability on a 512MB RAM cloud tier |
+| ⚖️ Dual-Lane Queue Scheduler | Processes 50KB documents in under 2 seconds, even while 10MB files run in the background |
 
-**Stack:** `Node.js` · `Pinecone Vector DB` · `Hugging Face Transformers` · `Groq`[cite: 1]
+**Stack:** `Node.js` · `Pinecone Vector DB` · `Hugging Face Transformers` · `Groq`
 
 </details>
 
